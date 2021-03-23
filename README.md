@@ -54,8 +54,8 @@ you've just cloned!!
 > pkg update && pkg upgrade 
 > pkg install nodejs
 > pkg install tesseract 
-> git clone https://github.com/SofyanAMV09/ChikaBot
-> cd ChikaBot
+> git clone https://github.com/alexanderyeremi/bot-whatsapp
+> cd bot-whatsapp
 > bash install.sh
 ```
 
